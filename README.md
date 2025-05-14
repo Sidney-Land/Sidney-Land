@@ -4,8 +4,7 @@ Topics I’m interested in:
   * Game Development
   * Computer Graphics
   * AI/Machine Learning
-  * Mobile Computing
-  * High-Performance Computing
+  * Optimization
 
 For info on my experience and academics, click the link to my LinkedIn profile!
   
